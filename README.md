@@ -15,10 +15,11 @@ This is made using API keys.in this i only used JS,HTML and CSS.
 
 You can run this on your computer using this command on git :
 
-git clone 
+git clone https://github.com/JazilJafar/QR-code-genrator.git
 
 And this is the live URL to checkout:
 
+https://jaziljafar.github.io/QR-code-genrator/
 
 If you like my Repo please give me a star ⭐ and also please explore my other repos 
 
