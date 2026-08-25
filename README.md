@@ -2,7 +2,7 @@ Hi,Welcome to my **Scan me! QR code genrator**.
 
 ![alt text](./images/name.png)
 
-This website help you to make QR code For your Websites and Your name And someone scan this it will return to your website.
+This website help you to make QR codes For your Websites and for texts And someone scan this QR code it will go to your website or show the text.
 
 ![alt text](./images/lay.png)
 
